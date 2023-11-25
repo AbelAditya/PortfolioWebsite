@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-      I specialize in constructing <span className="font-medium">digital machines</span>,
+      I specialize in creating <span className="font-medium">digital solutions</span>,
       leveraging my expertise as a skilled programmer and adept problem solver. 
       I excel in tackling novel challenges, using them as opportunities for continuous learning. 
       My commitment and diligence enable me to stay dedicated to my objectives, ensuring consistent and successful outcomes. 
